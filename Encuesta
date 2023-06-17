@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/a71707a89a.js"crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Captura de Datos</title>
+</head>
+<body>
+    <div class="dive">
+        <h1>Captura de datos personales</h1>
+        <br>
+        <h2>Ingresa los datos que se te pidan</h2>
+        <br>
+        <p>"Mi primera encuesta"</p>
+        <hr>
+        <label for="Name">Nombre</label>
+        <input type="text" id="Name" name="Name" value=" Ingresa tu nombre "/>
+        <hr>
+        <label for="Edad">Edad</label>
+        <input type="text" id="Edad" name="Edad" value=" Ingresa tu edad "/>
+        <hr>
+        <label for="Ciudad">Ciudad</label>
+        <input type="text" id="Ciudad" name="Ciudad" value=" Ingresa tu ciudad "/>
+        <hr>
+        <label for="Pasatiempo">Pasatiempo favorito</label>
+        <input type="text" id="Pasatiempo" name="Pasatiempo" value=" Ingresa tu pasatiempo favorito "/>
+        <hr>
+        <a href="resultados.html">
+          <button type="button" a href>
+            ¡Ingresamos Datos!
+          </button>
+
+        </a>
+    </div>
+</body>
+</html>
