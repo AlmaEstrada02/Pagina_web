@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Enciclopedia General</title>
+</head>
+<body bgcolor="#00FFFF" text="black">
+    <div class="dive">
+<p>
+<h1>"Bienvenido a mi enciclopedia web"</h1>
+<p>
+<img src="images.jpg">
+<p>
+<b><i><h1>Puedes encontrar</h1></i></b>
+<p>
+<u>Enciclopedia de paises y regiones</u>
+<p>
+<u>Enciclopedia para niños</u>
+<p>
+<u>Enciclopedia de animales</u>
+<p>
+    <video width="400" height="250" controls autoplay muted>
+        <source src="video.mp4.mp4" type="video/mp4">
+    </video>
+<u></u>
+<p>
+<u>Enciclopedia visual</u>
+<p>
+<b>Para comprar la enciclopedia en fisico entra al siguiente enlace</b> <a href="https://mx.ebay.com/b/Encyclopedias-Antiquarian-Collectible-Books-in-Spanish/29223/bn_106161884"> ir a la página</a>
+<p>
+
+<u><h1><b>Conceptos</b></h1></u>
+<table>
+<tr>
+    <td>1</td>
+    <td>Abeja</td>
+    <td><a href="https://www.nationalgeographic.com.es/animales/abeja">Ir a la descripción</a></td>
+</tr>
+<tr>
+    <td>2</td>
+    <td>Aves</td>
+    <td><a href="https://www.nationalgeographic.com.es/animales/aves">Ir a la descripción</a></td>
+</tr>
+<tr>
+    <td>3</td>
+    <td>Ardillas</td>
+    <td><a href="https://www.nationalgeographic.es/animales/ardilla">Ir a la descripción</a></td>
+</tr>
+<tr>
+    <td>4</td>
+    <td>Ballena</td>
+    <td><a href="https://www.nationalgeographic.com.es/animales/ballenas#:~:text=Dentro%20de%20el%20orden%20de,dos%20g%C3%A9neros%2C%20Balaena%20y%20Eubalaena.">Ir a la descripción</a></td>
+</tr>
+<tr>
+    <td>5</td>
+    <td>Caballo</td>
+    <td><a href="https://www.nationalgeographicla.com/animales/caballo">Ir a la descripción</a></td>
+</tr>
+<tr>
+    <td>6</td>
+    <td>Oveja</td>
+    <td><a href="https://es.wikipedia.org/wiki/Ovis_orientalis_aries">Ir a la descripción</a></td>
+</tr>
+<tr>
+    <td>7</td>
+    <td>Peces</td>
+    <td><a href="https://www.nationalgeographic.com.es/animales/peces">Ir a la descripción</a></td>
+</tr>
+</table>
+<img src="peces2.jpg" style="width: 400px">
+     </div>
+</body>
+</html>
